@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://media.giphy.com/media/Jmt5MhNTrv3UFMXIM0/giphy.gif "Header")](https://www.creative-tim.com/)
+###[![Header](https://media.giphy.com/media/Jmt5MhNTrv3UFMXIM0/giphy.gif "Header")](https://www.creative-tim.com/)
