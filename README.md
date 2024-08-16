@@ -7,6 +7,6 @@
 <a href = "https://www.linkedin.com/in/aljannah9/">
  <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColour=white&style=for-the-badge">
 </a>
-<img src = "https://img.shields.io/badge/X-black?style=for-the-badge">
+
 </div>
 
