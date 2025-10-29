@@ -13,7 +13,7 @@ Passionate about simplifying complex information for non-technical users and bui
 - 💬 Skilled at communicating clearly with both technical and non-technical audiences.  
 - 🎧 Focused on empathy, patience and problem-solving in every customer interaction.  
 - ⚙️ Experienced in email management, ticketing systems, and workflow optimization.  
-- 🌍 Open to **remote** or **hybrid** roles in *Customer Service, Technical/IT Support,* *SOC Analyst*  
+- 🌍 Open to **remote** or **hybrid** roles in *Customer Service, Technical/IT Support,* *SOC Analyst*. 
 
 ---
 
