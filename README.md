@@ -1,4 +1,5 @@
-# 👋 Hi, I'm AlJannat Uthman  
+# 👋 Hi, I'm AlJannat Uthman 
+I am an **Entry-level** Cybersecurity Analyst with focus on **Security operations**, **basic incident handling** & **forensics**. I am also a final-year studnet at Ahmadu Bello University.
 
 ## 🌟 Let's Connect!
 
