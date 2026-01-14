@@ -37,3 +37,12 @@ Tools: Java, Python <br> <br>
   <li>Holmes CTF (2025) | Team ranked 1001/7000+.  Solved 11/12 Splunk-based SOC challenges. </li>
   <li>Hck4G CTF (2025) | Solved challenges across Web Exploitation, OSINT, Forensics, Steganography and Cryptography, improving investigative and analysis skills.</li>
 </ul>
+
+## ✍️ Blog
+[Medium](https://medium.com/@j4nn47) <br>
+
+[Hashnode](https://hashnode.com/@J4NN47) <br>
+
+[LinkedIn Article](
+https://www.linkedin.com/pulse/agent-tesla-deconstructed-mitre-attck-aljannat-a-uthman-aifrf?utm_source=share&utm_medium=member_android&utm_campaign=share_via) 
+
