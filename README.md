@@ -1,5 +1,5 @@
 ## 👋 Whoami?
-I am an **Entry-level** Cybersecurity Analyst with focus on **Security operations**, **basic incident handling** & **forensics**. I am also a final-year studnet at Ahmadu Bello University. I have a strong foundation in log, phishing, malware and packet analysis and solid experience through labs and CTFs.
+I am an **entry-level** Cybersecurity Analyst with focus on **security operations**, **basic incident handling**, **forensics** and web application penetration testing. I am also a final-year studnet at Ahmadu Bello University. I have a strong foundation in log, phishing, malware, packet analysis & purple team ops with solid experience through labs and CTFs.
 
 ## 🌟 Let's Connect!
 
@@ -9,6 +9,7 @@ I am an **Entry-level** Cybersecurity Analyst with focus on **Security operation
 ## 👩‍💻 About Me
 <ul>
   <li>Final-year Computer Science Student at Ahamdu Bello University.</li>
+<li>Purple teamer.</li>
   <li>Experience in <strong>security operations, forensics & CTFs.</strong></li>
   <li>Interested in Offensive operations.</li>
   <li>Open to Cyber security & SOC roles.</li>
